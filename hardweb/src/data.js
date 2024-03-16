@@ -148,20 +148,6 @@ export const trainers = [
         name: 'Chiranjeeb Halder',
         job: 'Core Member',
         socials: ['mailto:chiranjeeb.ece320053@bppimt.ac.in', 'https://wa.link/kqpmse' ]
-    },
-    {
-        id: 5,
-        image: Trainer5,
-        name: 'Mr. Ramesh Kumar',
-        job: 'Mentor and Superviser',
-        socials: ['mailto:ramesh.kumar@bppimt.ac.in', 'https://wa.link/to4g3t']
-    },
-
-    {
-        id: 6,
-        image: Trainer6,
-        name: 'Dr. Ivy Majumder',
-        job: 'HOD OF ECE dept. BPPIMT',
-        socials: ['mailto:ivym-ece@bppimt.ac.in', 'https://wa.link/94348u']
     }
+    
 ]
